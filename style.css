@@ -1,0 +1,107 @@
+body
+{
+	margin : 0;
+}
+
+.img1
+{
+	background-image: url('images/golden.jpg');
+	height: 605px;
+}
+
+.img1, .img2, .img3, .img4, .img5, .img6
+{	
+	position: relative;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.bouton
+{
+	position: absolute;
+	top: 70%;
+	width: 100%;
+	text-align: center;
+	color: white;
+}
+
+.description
+{
+	background-color: rgba(122,116,136,0.64);
+	border: 1px white solid;
+	padding: 15px;
+	font-family: 'Trajan Pro';
+	font-size: 24px;
+	font-weight: normal;
+}
+
+.separation1
+{
+	background-color: rgb(217,207,212);
+	padding: 50px 80px;
+	text-align: justify;
+	color: rgb(103,93,83);
+	font-family: 'Trebuchet MS';
+	font-size: 15px;
+}
+
+h1
+{
+	text-align: center;
+	font-family: 'Trajan Pro';
+	font-size: 36px;
+}
+
+.img2
+{
+	background-image: url("images/joshua.jpg");
+	height: 425px;
+}
+
+.titre
+{
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	text-align: center;
+	font-family: 'images/Trajan Pro';
+	font-weight: bold;
+	font-size: 36px;
+	color: white;
+}
+
+.separation2, .separation3, .separation4, .separation5
+{
+	background-color: rgb(103,93,83);
+	padding: 50px 80px;
+	font-family: 'Trebuchet MS';
+	font-size: 15px;
+	color: white;
+}
+
+.img3
+{
+	background-image: url("images/tahoe.jpg");
+	height: 428px;
+}
+
+.img4
+{
+	background-image: url("images/lassen.jpg");
+	height: 428px;
+}
+
+.img5
+{
+	background-image: url("images/ocean.jpg");
+	height: 428px;
+}
+
+.img6
+{
+	background-image: url("images/SF.jpg");
+	height: 604px;
+}
+
